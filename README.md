@@ -1,5 +1,5 @@
 # XPath injection sample written in PHP
-This sample is created to show XPath injection vulnerability, exploit and patch it.
+This sample is created to show XPath Injection vulnerability, exploit and patch it.
 
 ## Base XPath Query
 ```sql
