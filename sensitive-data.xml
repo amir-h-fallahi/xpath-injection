@@ -1,0 +1,20 @@
+<users>
+    <user>
+        <username>admin</username>
+        <password>supersecret</password>
+        <api-key>api-admin-key</api-key>
+    </user>
+
+    <user>
+        <username>amir</username>
+        <password>1234</password>
+        <api-key>api-amir-key</api-key>
+    </user>
+
+    <user>
+        <username>ali</username>
+        <password>654321</password>
+        <api-key>api-ali-key</api-key>
+    </user>
+
+</users>
